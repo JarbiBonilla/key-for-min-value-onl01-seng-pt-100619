@@ -7,4 +7,5 @@ def key_for_min_value(name_hash)
       return num
     end
   end
+  return num
 end
